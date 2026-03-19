@@ -1,0 +1,9 @@
+com\mycompany\dogosobregon\persistencia\PedidoDetalleDAO.class
+com\mycompany\dogosobregon\persistencia\HotDogDAO.class
+com\mycompany\dogosobregon\persistencia\IPedidoDetalleDAO.class
+com\mycompany\dogosobregon\persistencia\PedidoDAO.class
+com\mycompany\dogosobregon\persistencia\IHotDogDAO.class
+com\mycompany\dogosobregon\persistencia\IPedidoDAO.class
+com\mycompany\dogosobregon\persistencia\IClienteDAO.class
+com\mycompany\dogosobregon\persistencia\IGenericoDAO.class
+com\mycompany\dogosobregon\persistencia\ClienteDAO.class

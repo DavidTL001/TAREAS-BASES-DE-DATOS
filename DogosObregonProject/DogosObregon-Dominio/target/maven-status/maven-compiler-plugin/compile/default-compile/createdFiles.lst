@@ -1,0 +1,5 @@
+com\mycompany\dogosobregon\dominio\HotDog.class
+com\mycompany\dogosobregon\dominio\MetodoPago.class
+com\mycompany\dogosobregon\dominio\Pedido.class
+com\mycompany\dogosobregon\dominio\Cliente.class
+com\mycompany\dogosobregon\dominio\PedidoDetalle.class

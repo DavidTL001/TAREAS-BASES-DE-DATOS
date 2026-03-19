@@ -1,0 +1,9 @@
+com\mycompany\dogosobregon\servicios\IHotDogService.class
+com\mycompany\dogosobregon\servicios\IPedidoService.class
+com\mycompany\dogosobregon\servicios\PedidoService.class
+com\mycompany\dogosobregon\servicios\HotDogService.class
+com\mycompany\dogosobregon\servicios\IGenericoService.class
+com\mycompany\dogosobregon\servicios\IClienteService.class
+com\mycompany\dogosobregon\servicios\ClienteService.class
+com\mycompany\dogosobregon\servicios\IPedidoDetalleService.class
+com\mycompany\dogosobregon\servicios\PedidoDetalleService.class
